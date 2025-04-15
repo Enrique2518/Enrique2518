@@ -1,4 +1,3 @@
-<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
 
 <h2> Hey there! I'm Enrique Muñoz - Torrero Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
@@ -11,35 +10,41 @@ I'm a student in the Advanced Vocational Training program (DAM) (Multiplatform A
 I'm passionate about backend programming languages.
 
 - 🎓 &nbsp; I'm currently in the process of getting my DAM degree, I only have the second year left.
-  <!-- Connect with me -->
-  <!--h2 without bottom border-->
-  <div id="user-content-toc">
-    <ul align="left">
-      <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
-    </ul>
-  <!--icons and links-->
+
+<!-- Contact -->
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
+  </ul>
   <p align="left">
-  <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+    LinkedIn
   </p>
-  </div>
+  <p align="left">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/InfoJobs_logo.svg/2560px-InfoJobs_logo.svg.png" alt="infojobs" height="50" />
+    InfoJobs
+  </p>
+</div>
 
 ---
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
 - 💻 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+  ![PL/SQL](https://img.shields.io/badge/-PL/SQL-333333?style=flat)
 
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 
 <br/>
 
