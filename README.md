@@ -12,7 +12,7 @@ I'm passionate about backend programming languages.
 - 🎓 &nbsp; I'm currently in the process of getting my DAM degree, I only have the second year left.
 
 <!-- Contact -->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="left">
     <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
   </ul>
@@ -24,7 +24,7 @@ I'm passionate about backend programming languages.
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/InfoJobs_logo.svg/2560px-InfoJobs_logo.svg.png" alt="infojobs" height="50" />
     InfoJobs
   </p>
-</div>
+</div> -->
 
 ---
 
